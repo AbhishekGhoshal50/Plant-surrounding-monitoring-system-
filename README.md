@@ -32,6 +32,4 @@ This project aims to create a plant monitoring system capable of measuring tempe
 # Contributing
 Contributions are welcome! Please feel free to submit pull requests or raise issues for any improvements or fixes.
 
-
-
-# Feel free to customize this template according to your specific project details and requirements. Good luck with your project!
+ Feel free to customize this template according to your specific project details and requirements. Good luck with your project!
